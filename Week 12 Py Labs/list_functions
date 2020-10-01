@@ -1,0 +1,8 @@
+#11/19/14
+
+def average(myList):
+    sum=o
+    n=len(myList)
+    for i in range(n):
+        sum+=myList[i]
+    avg=sum/n
